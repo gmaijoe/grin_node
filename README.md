@@ -14,6 +14,8 @@ Grin is an in-progress implementation of the MimbleWimble protocol. Many charact
 
 To learn more, read our [introduction to MimbleWimble and Grin](doc/intro.md).
 
+```export PATH=~/Desktop/workspace/grin/target/release:$PATH```
+
 ## Status
 
 Grin is still an infant, much is left to be done and [contributions](CONTRIBUTING.md) are welcome (see below). Check our [mailing list archives](https://lists.launchpad.net/mimblewimble/) for the latest status.
